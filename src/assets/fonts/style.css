@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Helvetica Now Text ';
+	src: local('Helvetica Now Text  Regular'),
+		local('Helvetica-Now-Text--Regular'),
+		url('HelveticaNowText-Regular.woff2') format('woff2'),
+		url('HelveticaNowText-Regular.woff') format('woff'),
+		url('HelveticaNowText-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+		<link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+		<title><%= process.env.VUE_APP_TITLE %></title>
+
+		<meta property="og:image" content="https://mugshotbot.com/m/1cqUtYgX" />
+		<meta property="twitter:card" content="summary_large_image" />
+
+		<meta property="mugshot:image" content="https://example.com/image.png" />
+
+		<!-- shared  -->
+		<meta
+			content="Reflekt Me is a web application for fashion and beauty brands who want to be effortlessly inclusive by quickly monetizing their user and employee-generated content on their product detail pages, with our end-to-end size, fit, and style solution. When customers can visualize what a product will look like on themselves this results in an increase in top-line revenue."
+			name="description" />
+		<meta
+			content="Reflekt Me: Create engaging &amp;&nbsp;inclusive shopping experiences"
+			property="og:title" />
+		<meta
+			content="Reflekt Me is a web application for fashion and beauty brands who want to be effortlessly inclusive by quickly monetizing their user and employee-generated content on their product detail pages, with our end-to-end size, fit, and style solution. When customers can visualize what a product will look like on themselves this results in an increase in top-line revenue."
+			property="og:description" />
+		<meta
+			content="https://global-uploads.webflow.com/6250c97cef41bd573a30dbfb/625456cdc0cafd706ba9ccbf_Reflekt%20Me%20Devices.png"
+			property="og:image" />
+		<meta
+			content="Reflekt Me: Create engaging &amp;&nbsp;inclusive shopping experiences"
+			property="twitter:title" />
+		<meta
+			content="Reflekt Me is a web application for fashion and beauty brands who want to be effortlessly inclusive by quickly monetizing their user and employee-generated content on their product detail pages, with our end-to-end size, fit, and style solution. When customers can visualize what a product will look like on themselves this results in an increase in top-line revenue."
+			property="twitter:description" />
+		<meta
+			content="https://global-uploads.webflow.com/6250c97cef41bd573a30dbfb/625456cdc0cafd706ba9ccbf_Reflekt%20Me%20Devices.png"
+			property="twitter:image" />
+		<meta property="og:type" content="website" />
+		<meta content="summary_large_image" name="twitter:card" />
+		<meta content="width=device-width, initial-scale=1" name="viewport" />
+	</head>
+	<body>
+		<noscript>
+			<strong
+				>We're sorry but <%= process.env.VUE_APP_TITLE %> doesn't work properly
+				without JavaScript enabled. Please enable it to continue.</strong
+			>
+		</noscript>
+		<script>
+			const date = new Date()
+			const dateString =
+				date.getFullYear() +
+				'' +
+				('0' + (date.getMonth() + 1)).slice(-2) +
+				'' +
+				('0' + date.getDate()).slice(-2) +
+				'' +
+				('0' + date.getHours()).slice(-2) +
+				'' +
+				('0' + date.getMinutes()).slice(-2) +
+				'' +
+				('0' + date.getSeconds()).slice(-2) +
+				'' +
+				('00' + date.getMilliseconds()).slice(-3)
+
+			class dataModel {
+				constructor(clientId, productId, trackingId) {
+					this.clientId = clientId ?? null
+					this.productId = productId ?? null
+					this.trackingId = trackingId ?? dateString
+				}
+			}
+
+			// this inits the data required
+			// first arg: clientId / Second arg: productId (Optional) / Third agr: (Optional)
+			//if no  argument is passed a String will be generated based on based on YYYYMMDDHHMMSSmmm time format
+			const initData = function () {
+				return new dataModel('Df9M11J8C1Oo5UjBBdffRA', 'GORS1')
+			}
+		</script>
+		<div id="app"></div>
+		<!-- built files will be auto injected -->
+	</body>
+</html>

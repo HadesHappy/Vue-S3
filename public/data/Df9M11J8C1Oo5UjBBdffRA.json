@@ -1,0 +1,18 @@
+{
+	"allowedUrls": [
+		"http://127.0.0.1:5501",
+		"https://demo.reflektme.com",
+		"https://reflektmedemo.myshopify.com",
+		"https://gors.reflektme.com",
+		"https://gors.reflektme.com",
+		"https://gors.s3.amazonaws.com",
+		"http://127.0.0.1:8080"
+	],
+	"settings": {
+		"theme": "LEVIS",
+		"buttonColor": "f4c257",
+		"textColor": "ffffff",
+		"buttonRounded": true,
+		"customJs": null
+	}
+}

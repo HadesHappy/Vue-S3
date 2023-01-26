@@ -1,0 +1,165 @@
+{
+	"data": [
+		{
+			"id": "sdkfjvgskdjvsdv465465",
+			"size": "A",
+			"smallOpt": [
+				{
+					"thumbnail": "/imgs/new-imgs/A/A_thumbnail.webp",
+					"hero": "/imgs/new-imgs/A/A_Hero.webp",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/A/A_thumbnail-04.jpg",
+					"hero": "/imgs/new-imgs/A/A_Hero-04.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/A/A_thumbnail-03.jpg",
+					"hero": "/imgs/new-imgs/A/A_Hero-03.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				}
+			],
+			"bigSizes": [
+				{
+					"fullScreeen": "/imgs/new-imgs/A/A_fullscreen.webp",
+					"zoomOpt": "/imgs/new-imgs/A/A_zoom.webp"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/A/A_fullscreen-04.jpg",
+					"zoomOpt": "/imgs/new-imgs/A/A_zoom-04.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/A/A_fullscreen-03.jpg",
+					"zoomOpt": "/imgs/new-imgs/A/A_zoom-03.jpg"
+				}
+			]
+		},
+		{
+			"id": "4S9Ehhh4sdfsdfaz132112",
+			"size": "B",
+			"smallOpt": [
+				{
+					"thumbnail": "/imgs/new-imgs/B/B_thumbnail.webp",
+					"hero": "/imgs/new-imgs/B/B_Hero.webp",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/B/B_thumbnail-02.jpg",
+					"hero": "/imgs/new-imgs/B/B_Hero-02.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/B/B_thumbnail-03.jpg",
+					"hero": "/imgs/new-imgs/B/B_Hero-03.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/B/B_thumbnail-04.jpg",
+					"hero": "/imgs/new-imgs/B/B_Hero-04.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				}
+			],
+			"bigSizes": [
+				{
+					"fullScreeen": "/imgs/new-imgs/B/B_fullscreen.webp",
+					"zoomOpt": "/imgs/new-imgs/B/B_zoom.webp"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/B/B_fullscreen-02.jpg",
+					"zoomOpt": "/imgs/new-imgs/B/B_zoom-02.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/B/B_fullscreen-03.jpg",
+					"zoomOpt": "/imgs/new-imgs/B/B_zoom-03.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/B/B_fullscreen-04.jpg",
+					"zoomOpt": "/imgs/new-imgs/B/B_zoom-04.jpg"
+				}
+			]
+		},
+		{
+			"id": "5s4dfssdfsdfaz132112",
+			"size": "C",
+			"smallOpt": [
+				{
+					"thumbnail": "/imgs/new-imgs/C/C_thumbnail.webp",
+					"hero": "/imgs/new-imgs/C/C_Hero.webp",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/C/C_thumbnail-02.jpg",
+					"hero": "/imgs/new-imgs/C/C_Hero-02.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/C/C_thumbnail-03.jpg",
+					"hero": "/imgs/new-imgs/C/C_Hero-03.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				}
+			],
+			"bigSizes": [
+				{
+					"fullScreeen": "/imgs/new-imgs/C/C_fullscreen.webp",
+					"zoomOpt": "/imgs/new-imgs/C/C_zoom.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/C/C_fullscreen-02.jpg",
+					"zoomOpt": "/imgs/new-imgs/C/C_zoom-02.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/C/C_fullscreen-03.jpg",
+					"zoomOpt": "/imgs/new-imgs/C/C_zoom-03.jpg"
+				}
+			]
+		},
+		{
+			"id": "lklksd4ssdfsdfaz1322",
+			"size": "D",
+			"smallOpt": [],
+			"bigSizes": []
+		},
+		{
+			"id": "1546dfg4dfgdf2dfg1d385",
+			"size": "E",
+			"smallOpt": [
+				{
+					"thumbnail": "/imgs/new-imgs/E/E_thumbnail.jpg",
+					"hero": "/imgs/new-imgs/E/E_Hero.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/E/E_thumbnail-02.jpg",
+					"hero": "/imgs/new-imgs/E/E_Hero-02.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				},
+				{
+					"thumbnail": "/imgs/new-imgs/E/E_thumbnail-03.jpg",
+					"hero": "/imgs/new-imgs/E/E_Hero-03.jpg",
+					"altTxt": "Levis' 721 High Rise Skinny"
+				}
+			],
+			"bigSizes": [
+				{
+					"fullScreeen": "/imgs/new-imgs/E/E_fullscreen.jpg",
+					"zoomOpt": "/imgs/new-imgs/E/E_zoom.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/E/E_fullscreen-02.jpg",
+					"zoomOpt": "/imgs/new-imgs/E/E_zoom-02.jpg"
+				},
+				{
+					"fullScreeen": "/imgs/new-imgs/E/E_fullscreen-03.jpg",
+					"zoomOpt": "/imgs/new-imgs/E/E_zoom-03.jpg"
+				}
+			]
+		},
+		{
+			"id": "45imq557dfsdfsdfaz1322",
+			"size": "F",
+			"smallOpt": [],
+			"bigSizes": []
+		}
+	]
+}

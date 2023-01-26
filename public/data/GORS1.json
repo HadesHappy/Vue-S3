@@ -1,0 +1,136 @@
+{
+	"variants": [
+		{
+			"id": "6137255",
+			"medias": [
+				{
+					"full": "https://staging-assets.reflektme.app/4d6f4d61-6956-4d01-808d-1bb150091bf2.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/4d6f4d61-6956-4d01-808d-1bb150091bf2-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/56b2b974-0fdd-454c-b8f4-c1e5400bf4d8.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/56b2b974-0fdd-454c-b8f4-c1e5400bf4d8-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/f17bf3b4-2fa3-4d60-a7dc-98734d1815e8.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/f17bf3b4-2fa3-4d60-a7dc-98734d1815e8-thumbnail.webp",
+					"type": "IMAGE"
+				}
+			],
+			"name": "XS",
+			"uid": "6137255"
+		},
+		{
+			"id": "6137256",
+			"medias": [
+				{
+					"full": "https://staging-assets.reflektme.app/789a499d-a662-48ed-81ef-5b88551308b4.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/789a499d-a662-48ed-81ef-5b88551308b4-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/5b3bfd12-3166-4e89-83ff-5df51024a376.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/5b3bfd12-3166-4e89-83ff-5df51024a376-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/4070eceb-790a-4722-b5f4-af0b2b41daf8.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/4070eceb-790a-4722-b5f4-af0b2b41daf8-thumbnail.webp",
+					"type": "IMAGE"
+				}
+			],
+			"name": "S",
+			"uid": "6137256"
+		},
+		{
+			"id": "6137257",
+			"medias": [
+				{
+					"full": "https://staging-assets.reflektme.app/c32bfad0-6565-478f-a5dd-ea9383b9431a.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/c32bfad0-6565-478f-a5dd-ea9383b9431a-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/ef36e8cd-cc8f-4bad-89c6-fe834550eed8.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/ef36e8cd-cc8f-4bad-89c6-fe834550eed8-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/7fd92129-a4b0-44b8-804c-58aeda3dddbb.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/7fd92129-a4b0-44b8-804c-58aeda3dddbb-thumbnail.webp",
+					"type": "IMAGE"
+				}
+			],
+			"name": "M",
+			"uid": "6137257"
+		},
+		{
+			"id": "6137258",
+			"medias": [
+				{
+					"full": "https://staging-assets.reflektme.app/174af00e-fddf-4421-8e83-d22e11f573a2.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/174af00e-fddf-4421-8e83-d22e11f573a2-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/37535f9b-7038-45f3-ada4-ba9539b750e8.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/37535f9b-7038-45f3-ada4-ba9539b750e8-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/fa03707a-caab-4d93-abc0-c075a5707380.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/fa03707a-caab-4d93-abc0-c075a5707380-thumbnail.webp",
+					"type": "IMAGE"
+				}
+			],
+			"name": "L",
+			"uid": "6137258"
+		},
+		{
+			"id": "6137259",
+			"medias": [
+				{
+					"full": "https://staging-assets.reflektme.app/b99a31c2-f431-4de3-a589-b23cf05451cd.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/b99a31c2-f431-4de3-a589-b23cf05451cd-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/11c2ab93-2c17-4262-b2c6-9ea14d0bfd49.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/11c2ab93-2c17-4262-b2c6-9ea14d0bfd49-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/cb701f69-9bb3-465c-b26c-7a3d273f110a.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/cb701f69-9bb3-465c-b26c-7a3d273f110a-thumbnail.webp",
+					"type": "IMAGE"
+				}
+			],
+			"name": "XL",
+			"uid": "6137259"
+		},
+		{
+			"id": "6137260",
+			"medias": [
+				{
+					"full": "https://staging-assets.reflektme.app/da778d38-42a6-461d-bb78-d18beca3e997.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/da778d38-42a6-461d-bb78-d18beca3e997-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/6cfc89be-3e34-46e9-a9a4-6803db0d3a6c.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/6cfc89be-3e34-46e9-a9a4-6803db0d3a6c-thumbnail.webp",
+					"type": "IMAGE"
+				},
+				{
+					"full": "https://staging-assets.reflektme.app/484b7b83-c45f-4318-8aa1-3e593357f223.webp",
+					"thumbnail": "https://staging-assets.reflektme.app/484b7b83-c45f-4318-8aa1-3e593357f223-thumbnail.webp",
+					"type": "IMAGE"
+				}
+			],
+			"name": "2XL",
+			"uid": "6137260"
+		}
+	]
+}
