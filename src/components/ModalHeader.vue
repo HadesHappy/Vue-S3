@@ -13,6 +13,7 @@
 		} else {
 			store.commit('toggleShareModal', null)
 			store.commit('toggleModal', null)
+			router.go(-1)
 		}
 	}
 </script>
