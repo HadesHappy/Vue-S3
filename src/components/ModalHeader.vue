@@ -10,10 +10,12 @@
 	const haddleClick = () => {
 		if (store.state.showModal) {
 			store.commit('toggleModal', null)
+			if(store.state.shareModal){
+				store.commit('toggleShareModal')
+				router.go(-1)
+			}
 		} else {
-			store.commit('toggleShareModal', null)
 			store.commit('toggleModal', null)
-			router.go(-1)
 		}
 	}
 </script>
