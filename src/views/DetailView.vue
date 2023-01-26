@@ -4,7 +4,6 @@ import { useStore } from 'vuex'
 import fetchData from '../composable/FetchData'
 import PrimaryModal from './PrimaryModal.vue'
 import FullScreenModal from './FullScreenModal.vue'
-// import ShareModal from './ShareModal.vue'
 import ModalHeader from '../components/ModalHeader.vue'
 import ModalBody from '../components/ModalBody.vue'
 import ModalThumbnails from '../components/ModalThumbnails.vue'
@@ -17,17 +16,6 @@ const { load } = fetchData()
 const store = useStore()
 
 load()
-
-/*
-const localUserData = ref({
-	clientId: route.query.clientId,
-	productId: route.query.productId,
-	trackingId: route.query.trackingId,
-})
-
-store.commit('setUserData', localUserData)
-*/
-
 const imageCont = ref()
 
 const zoomCoordData = ref({ zoomX: '', zoomY: '' })
@@ -35,37 +23,13 @@ const handleZoom = (data) => {
 	zoomCoordData.value.zoomX = -35 + data.zoomX * 2.9
 	zoomCoordData.value.zoomY = -80 + data.zoomY * 3.2
 }
-	/* data fetch
-const fetchData = async () => {
-try {
-// const response = await fetch('/data.json')
-const response = await fetch('/new-data.json')
-const jsonData = await response.json()
-console.log(jsonData.data)
-store.commit('setMediaArray', jsonData.data)
-store.commit('setActiveImg', jsonData.data[0])
-} catch (err) {
-console.log(err)
-}
-}
-fetchData()
-*/
 
-/*
-
-buscar el client_id luego el product_id
-y luego permitir cuales son las urls que se pueden utilizar
-
-
-del json solo usar names y id's
-las medias no
-*/
 </script>
 
 <template>
 	<div>
 		<transition name="mainTransition">
-			<primary-modal class="absolute left-[50%] translate-x-[-50%]"
+			<primary-modal class="absolute left-[50%] top-10 translate-x-[-50%]"
 				v-if="store.state.showModal && !store.state.showFullScreenModal">
 				<div class="block md:hidden">
 					<!--- only shows in mobile    --->

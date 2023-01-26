@@ -1,12 +1,12 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import HomeView from '../views/DetailView.vue'
+// import HomeView from '../views/DetailView.vue'
 // import store from '../store/index'
 
 const routes = [
 	{
 		path: '/',
 		name: 'home',
-		component: HomeView,
+		component: () => import('../views/HomeView.vue'),
 	},
 	{
 		path: '/about',
@@ -16,7 +16,7 @@ const routes = [
 	{
 		path: '/detail',
 		name: 'detail',
-		component: () => import('../views/HomeView.vue'),
+		component: () => import('../views/DetailView.vue'),
 	},
 	{
 		path: '/share',
