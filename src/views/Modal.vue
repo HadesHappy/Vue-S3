@@ -36,6 +36,7 @@ const handleZoom = (data) => {
 	zoomCoordData.value.zoomX = -35 + data.zoomX * 2.9
 	zoomCoordData.value.zoomY = -80 + data.zoomY * 3.2
 }
+
 	/* data fetch
 const fetchData = async () => {
 try {
@@ -115,7 +116,7 @@ las medias no
 			</div>
 		</full-screen-modal>
 
-    <ButtonComp btnMsg="See It In My Size" />
+    <ButtonComp class="mt-[calc(100vh-5rem)] ml-10	" btnMsg="See It In My Size" />
 		<!---
 			<share-modal
 			class="absolute left-[50%] translate-x-[-50%] top-2"
